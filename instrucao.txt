@@ -1,2 +1,2 @@
-Como executar o jogo? Fazer o donwload do arquivo completo e seguir o caminho bin -> Debug -> jogo_snake.exe
+Como executar o jogo? Fazer o download do arquivo completo e seguir o caminho bin -> Debug -> jogo_snake.exe
 Assim que executar o jogo ele estará funcionando, caso apresnete um erro dll, o freeglut.dll deverá ser reinstalado ( o qual já está inserido na mesma página).
